@@ -1,0 +1,39 @@
+{ "intents" : [
+    { "tag" :  "None" ,
+      "patterns" :  "akljscbn ,weffwef,wef,wef,qwef,qewf,qe,fqw,fqw,fqew,ef" ,
+      "responses" :  ""
+    },
+    { "tag" :  "greeting" ,
+      "patterns" :  "Hi ,  Hey ,  Hello ,  Good morning! ,  Hey! Good morning ,  Hey there ,  Hey Janet ,  Very good morning ,  A very good morning to you ,  Greeting ,  Greetings to you" ,
+      "responses" :  "Hello, How are you"
+    },
+    { "tag" :  "who" ,
+      "patterns" :  "who are you ,  are you",
+      "responses" : "I'm your friend, I'm your wellwisher, I m your fav character your best buddy"
+    },
+    { "tag" :  "why" ,
+      "patterns" :  "screen? , why screen" ,
+      "responses" : "Hey buddy,you have used screen more than enough now you should do something interesting rather than siting or you will become fatty and may have headache." 
+    },
+    { "tag" :  "no ",
+      "patterns" :  "I don't want to , want, no",
+      "responses" :  "You should close your screen and check outside  weather is amazing! You should try outdoor games,You should close your screen your friends must be waiting for you to play and enjoy,You should close your screen ,it affects your eye and even I also don’t use screentime more."     
+    },
+    { "tag" :  "fr ",
+      "patterns" :  "I don't have any friends, friend",
+      "responses" :  "Ask your parents to download screen curb app "},
+    { "tag" :  "candy",
+      "patterns" :  "What is Candy jar buddy?, candy jar?",
+      "responses" :  "Candy jar is a reward for your good work.It will reward you if you decrease usage of screen time."},
+    { "tag" :  "how",
+      "patterns" :  "How can I get reward?, reward?",
+      "responses" :  "Candy jar is a reward for your good work.It will reward you if you decrease usage of screen time."},
+    { "tag" :  "screen",
+      "patterns" :  "Will I get points if I increased my Screen time?, screen time",
+      "responses" :  "No,buddy you will not get infact you may loose the points you have earned."},
+    { "tag" :  "pt",
+      "patterns" :  "How many points I have to earn to get my favourite item??, points",
+      "responses" :  "Different point for different items. lets say if you want to earn a cricket bat you have to  earn 6000 points for it.For more details ask your parents."}
+
+]
+}
